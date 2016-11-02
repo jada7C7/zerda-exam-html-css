@@ -1,3 +1,4 @@
+/* main box elements */
 section {
   margin: auto;
   box-sizing:border-box;
@@ -31,6 +32,7 @@ img{
   display: inline-block;
   margin-right: 45px;
 }
+/* main box-elements end */
 
 /* Font styling */
 h1, p {
@@ -50,6 +52,7 @@ span p {
 }
 /* Font styling end */
 
+/* Edit-icon */
 .details:after {
 content: url(../edit-icon.png);
 position: relative;
