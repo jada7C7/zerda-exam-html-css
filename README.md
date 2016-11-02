@@ -80,7 +80,7 @@ Add your answer to this readme file, commit your changes to this repository.
   </body>
 </html>
 ```
-#### Your answer: [2p]
+#### Your answer: The distance between the document body and the yellow box is top: 40px and left: 40px. The blue box has the position absolute value and it is set to top: 20px left 20px from the document body. So the blue box is from top: 20px left: 20px from the body.  The yellow box is inside the blue box, and also has the position absolute value. It has top: 20px left: 20px from the top right corner of the blue box. So the yellow box is top: 20px + 20px = 40px and left: 20px + 20px = 40px from the body.
 
 
 ## 3. Explain concepts (~15 minutes) [4 points]
