@@ -92,4 +92,4 @@ Add your answer to this readme file, commit your changes to this repository.
 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
-#### Your answer: [2p]
+#### Your answer: The <section> element contains part of your HTML with related topics. You can use <article> elements inside <section> elements and it contains "individual stories" related to your section. Eg.: You can make a sections about the news like "politics", "sport", "Science" and you can write articles related to those topics. Eg. Inside the sport section you can create an article about the Chess World Cup final. [2p]
