@@ -88,7 +88,7 @@ Add your answer to this readme file, commit your changes to this repository.
 
 
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
-#### Your answer: [2p]
+#### Your answer: "display:block" means your element behaves like a box in box-model(eg. you can set the height and width), you can't put other html element next to it by default. "display:inline" means you can't set the width and height of the element but you can put other elements next to it by default. "display:inline-block" mergs the good qualities of "display:block" and "display:inline"[2p]
 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
